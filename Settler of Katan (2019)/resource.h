@@ -1,0 +1,6 @@
+#ifndef RESOURCE_H
+#define RESOURCE_H
+
+enum Resource{TUTORIAL, STUDY, CAFFEINE, LAB, LECTURE, NETFLIX};
+
+#endif

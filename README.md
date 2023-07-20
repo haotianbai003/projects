@@ -3,19 +3,19 @@ An assorted collection of projects and ideas created over the years
 
 Blackjack
 - Java, made in 2018
-- Simplified Blackjack programming that runs on the CLI
+- Simplified Blackjack program that runs on the CLI
 
 Hangman
 - Java, made in 2016
 - One of the earliest programs I've made
 
-highway-conditions
+highway-conditions (HWY 401 Construction Lookup)
 - Python, made in 2022
-- Checks construction conditions on hwy 401
+- Checks construction conditions on hwy 401 using Ontario's 511 API
 
-NN
+NN (Neural Network Classifier)
 - Python, made in 2023
-- Neural network
+- Neural network built with RELU and Sigmoid
 
 Settler of Katan
 - C++, made in 2019
